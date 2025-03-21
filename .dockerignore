@@ -1,0 +1,13 @@
+.venv/
+.venv_wsl/
+.venv_clean/
+.venv_wsl_clean/
+output/
+.DS_Store
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.coverage
+coverage_report/*

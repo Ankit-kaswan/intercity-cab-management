@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+pydantic
+pytest-html
+pytest
+pytest-cov
+httpx
+sqlalchemy
+uvicorn
+coverage
+psycopg2-binary
+bcrypt
+PyJWT
+python-multipart
+pandas
+python-jose
+python-dotenv
